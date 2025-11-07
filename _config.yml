@@ -16,15 +16,6 @@ social_links:
   github: https://github.com/ryanquach03
   email: ryanquach03@g.ucla.edu
 
-nav:
-  - name: "Home"
-    link: /
-  - name: "Projects"
-    link: /projects
-  - name: "About"
-    link: /index
-
 header_pages:
   - index.md
   - projects.md
-  - About.md
