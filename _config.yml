@@ -19,3 +19,5 @@ header_pages:
   - about.md
   - experience.md
   - projects.md
+
+footer: "© 2025 Ryan Quach"
