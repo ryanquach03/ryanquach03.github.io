@@ -1,4 +1,6 @@
-# Experience
+---
+title: Experience
+---
 
 ## AI Model Validation Fellow (MOVE Program)  
 **Handshake AI, San Francisco, CA (Remote)** — September 2025 - Present
