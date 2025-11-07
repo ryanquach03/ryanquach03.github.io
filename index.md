@@ -3,10 +3,16 @@ layout: default
 title: Index
 ---
 
-# Hi, I'm Ryan Quach!
+<div style="display: flex; align-items: center; margin-top: 40px; gap: 20px;">
+  <!-- Left: Text -->
+  <div style="flex: 1;">
+    <h1>Hello, I'm Ryan Quach!</h1>
+    <p>Welcome to my personal homepage! I’m an M.S Statistics student at UCLA. Here, I share my projects, notes, and research work.</p>
+    <p>Feel free to browse around and learn more about my work!</p>
+  </div>
 
-## M.S. Statistics Candidate at UCLA
-
-Welcome to my portfolio! Please feel free to check out what I am working on!
-
-<img src="portfolio-homepage-pic.png" alt="My Profile" width="200" style="border-radius:50%;">
+  <!-- Right: Profile Picture -->
+  <div>
+    <img src="portfolio_homepage_pic.jpg" alt="Ryan Quach" width="180" style="border-radius:50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
+  </div>
+</div>
