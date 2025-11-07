@@ -6,7 +6,7 @@ title: Index
 <div style="display: flex; align-items: center; margin-top: 40px; gap: 20px;">
   <!-- Left: Text -->
   <div style="flex: 1;">
-    <h1>Hello, I'm Ryan Quach!</h1>
+    <h1>Hello everyone!</h1>
     <p>Welcome to my personal homepage! I’m an M.S Statistics student at UCLA. Here, I share my projects, notes, and research work.</p>
     <p>Feel free to browse around and learn more about my work!</p>
   </div>
