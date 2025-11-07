@@ -10,11 +10,8 @@ title: Home
     <p>Welcome to my personal homepage! I’m an M.S Statistics student at UCLA. Here, I share my projects, notes, and research work.</p>
     <p>Feel free to browse around and learn more about my work!</p>
     <!-- Social Links -->
-    <div style="display: flex; gap: 15px; margin-top: 10px; font-size: 1.3em;">
-      <a href="{{ site.social.github }}" target="_blank"><i class="fab fa-github"></i></a>
-      <a href="{{ site.social.linkedin }}" target="_blank"><i class="fab fa-linkedin"></i></a>
-      <a href="{{ site.social.email }}"><i class="fas fa-envelope"></i></a>
-    </div>
+    ### Connect with me
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/ryan-quach)
   </div>
   <!-- Right: Profile Picture -->
   <div>
