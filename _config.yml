@@ -1,5 +1,17 @@
-title: My GitHub Pages Site
-description: Built with Jekyll
+title: Ryan Quach
+description: M.S. Statistics | Data Science | Research
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
+
+show_downloads: false
+google_analytics:  # optional
+author: Ryan Quach
+github:
+  is_project_page: false
+
+# Optional social media
+social_links:
+  linkedin: https://www.linkedin.com/in/ryan-quach/
+  github: https://github.com/ryanquach03
+  email: ryanquach03@g.ucla.edu
