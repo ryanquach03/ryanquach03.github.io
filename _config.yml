@@ -15,3 +15,16 @@ social_links:
   linkedin: https://www.linkedin.com/in/ryan-quach/
   github: https://github.com/ryanquach03
   email: ryanquach03@g.ucla.edu
+
+nav:
+  - name: "Home"
+    link: /
+  - name: "Projects"
+    link: /projects
+  - name: "About"
+    link: /about
+
+header_pages:
+  - index.md
+  - projects.md
+  - About.md
