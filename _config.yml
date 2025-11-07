@@ -7,7 +7,6 @@ minima:
 
 show_downloads: false
 google_analytics:  # optional
-author: Ryan Quach
 github:
   is_project_page: false
 
