@@ -1,4 +1,4 @@
-title: Ryan Quach
+author: Ryan Quach
 description: M.S. Statistics | Data Science | Research
 theme: minima
 
@@ -19,5 +19,3 @@ header_pages:
   - about.md
   - experience.md
   - projects.md
-
-footer: "© 2025 Ryan Quach"
