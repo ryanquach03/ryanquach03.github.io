@@ -12,3 +12,6 @@ My coursework includes:
 - Linear Models
 - Machine Learning
 - Computational Statistics
+
+## Navigation
+- [Projects](projects)
