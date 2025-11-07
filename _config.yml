@@ -10,8 +10,7 @@ google_analytics:  # optional
 github:
   is_project_page: false
 
-# Optional social media
-social_links:
+social:
   linkedin: https://www.linkedin.com/in/ryan-quach/
   github: https://github.com/ryanquach03
   email: ryanquach03@g.ucla.edu
