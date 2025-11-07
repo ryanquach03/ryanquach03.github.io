@@ -1,14 +1,10 @@
 ---
 layout: default
-title: About
+title: Index
 ---
 
-# About Me
+# Hi, I'm Ryan Quach!
 
-I’m currently pursuing an **M.S. in Statistics** at UCLA.  
-My coursework includes:
-- Probability Theory
-- Statistical Inference
-- Linear Models
-- Machine Learning
-- Computational Statistics
+## M.S. Statistics Candidate at UCLA
+
+Welcome to my portfolio!
