@@ -1,9 +1,0 @@
-/* Light mode override */
-:root[data-scheme="light"] {
-  color-scheme: light;
-}
-
-/* Dark mode override */
-:root[data-scheme="dark"] {
-  color-scheme: dark;
-}
