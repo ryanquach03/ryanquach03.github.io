@@ -8,7 +8,7 @@ title: Home
   <!-- Left: Text + Social Links -->
   <div style="flex: 1; min-width: 250px;">
     <h1>Hello everyone!</h1>
-    <p>Welcome to my personal homepage! I’m an M.S Statistics student at UCLA. Here, I share my projects, notes, and research work.</p>
+    <p>Welcome to my personal homepage! I’m an M.S Statistics student at UCLA. Here, I share my experience, projects, and research.</p>
     <p>Feel free to browse around and learn more about my work!</p>
     <!-- Social Links -->
     <p>My LinkedIn and GitHub are attached below:</p>
