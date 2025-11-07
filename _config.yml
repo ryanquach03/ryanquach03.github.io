@@ -22,7 +22,7 @@ nav:
   - name: "Projects"
     link: /projects
   - name: "About"
-    link: /about
+    link: /index
 
 header_pages:
   - index.md
