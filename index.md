@@ -34,5 +34,4 @@ title: Home
   <div>
     <img src="portfolio-homepage-pic.png" alt="Ryan Quach" width="180" style="border-radius:50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);">
   </div>
-
 </div>
