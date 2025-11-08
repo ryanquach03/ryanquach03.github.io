@@ -24,7 +24,7 @@ title: Home
              style="height:30px; width:30px;">
       </a>
       <a href="https://ryanquach03.github.io/ryan-quach-resume.pdf" target="_blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" 
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/file.svg"
              alt="Resume" 
               style="height:30px; width:30px;">
       </a>
