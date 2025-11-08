@@ -11,7 +11,7 @@ title: Home
     <p>Welcome to my personal homepage! I’m an M.S Statistics student at UCLA. Here, I share my experience, projects, and research.</p>
     <p>Feel free to browse around and learn more about my work!</p>
     <!-- Social Links -->
-    <p>My LinkedIn and GitHub are attached below:</p>
+    <p>My LinkedIn, GitHub, and resume are attached below:</p>
     <div style="display:flex; align-items:center; gap:10px; margin-top:10px;">
       <a href="https://www.linkedin.com/in/ryan-quach" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" 
@@ -22,6 +22,11 @@ title: Home
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" 
              alt="GitHub" 
              style="height:30px; width:30px;">
+      </a>
+      <a href="https://ryanquach03.github.io/ryan-quach-resume.pdf" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/readthedocs.svg" 
+             alt="Resume" 
+              style="height:30px; width:30px;">
       </a>
     </div>
   </div>
