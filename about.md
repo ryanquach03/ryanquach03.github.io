@@ -5,7 +5,8 @@ title: About
 
 # About Me
 
-I’m currently pursuing an **M.S. in Statistics** at UCLA.  
+I’m currently pursuing an **M.S. in Statistics** at UCLA. My research interests include spatial statistics and causal inference.
+
 My coursework includes:
 - Probability Theory
 - Statistical Inference
