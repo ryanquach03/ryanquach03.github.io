@@ -23,7 +23,7 @@ title: Home
              alt="GitHub" 
              style="height:30px; width:30px;">
       </a>
-      <a href="https://ryanquach03.github.io/ryan-quach-resume.pdf" target="_blank">
+      <a href="https://ryanquach03.github.io/resume-ryanquach-3.pdf" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/icons/file-earmark-text.svg"
              alt="Resume" 
               style="height:30px; width:30px;">
